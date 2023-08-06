@@ -1,0 +1,5 @@
+-django-admin startproject pyshop
+-python manage.py runserver
+-python .\manage.py startapp products
+-python .\manage.py makemigrations (lancer migration)
+-python .\manage.py migrate (migrer)
